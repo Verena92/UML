@@ -528,7 +528,7 @@
   <packagedElement xmi:type="uml:DataType" xmi:id="_sLYRAAZJEeaGp98nz21wIw" name="JSON"/>
   <packagedElement xmi:type="uml:DataType" xmi:id="_gazwgAZKEeaGp98nz21wIw" name="int"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_vwN-0AZLEeaGp98nz21wIw" name="Spracherkennung" memberEnd="_vwN-0QZLEeaGp98nz21wIw _vwMwsAZLEeaGp98nz21wIw">
-    <ownedEnd xmi:type="uml:Property" xmi:id="_vwMwsAZLEeaGp98nz21wIw" name="webSpeech" type="_B9JRAAZGEeaGp98nz21wIw" aggregation="shared" association="_vwN-0AZLEeaGp98nz21wIw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_vwMwsAZLEeaGp98nz21wIw" name="webSpeech" type="_B9JRAAZGEeaGp98nz21wIw" association="_vwN-0AZLEeaGp98nz21wIw">
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_vwMwsQZLEeaGp98nz21wIw" value="1"/>
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_vwMwsgZLEeaGp98nz21wIw" value="1"/>
     </ownedEnd>
@@ -549,7 +549,7 @@
   </packagedElement>
   <packagedElement xmi:type="uml:DataType" xmi:id="_Joc3YAZoEeaGp98nz21wIw" name="void"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_IMJ-4AZwEeaGp98nz21wIw" name="Erstellung" memberEnd="_IMJ-4QZwEeaGp98nz21wIw _IMG7kAZwEeaGp98nz21wIw">
-    <ownedEnd xmi:type="uml:Property" xmi:id="_IMJ-4QZwEeaGp98nz21wIw" name="keyword" type="_ELh0IAZGEeaGp98nz21wIw" aggregation="composite" association="_IMJ-4AZwEeaGp98nz21wIw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_IMJ-4QZwEeaGp98nz21wIw" name="keyword" type="_ELh0IAZGEeaGp98nz21wIw" association="_IMJ-4AZwEeaGp98nz21wIw">
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IMJ-4gZwEeaGp98nz21wIw" value="1"/>
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IMJ-4wZwEeaGp98nz21wIw" value="*"/>
     </ownedEnd>
@@ -559,7 +559,7 @@
     </ownedEnd>
   </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_YTnKoAZwEeaGp98nz21wIw" name="Erstellung" memberEnd="_YTnKoQZwEeaGp98nz21wIw _YTlVcAZwEeaGp98nz21wIw">
-    <ownedEnd xmi:type="uml:Property" xmi:id="_YTnKoQZwEeaGp98nz21wIw" name="token" type="_DW0ZsAZGEeaGp98nz21wIw" aggregation="composite" association="_YTnKoAZwEeaGp98nz21wIw">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_YTnKoQZwEeaGp98nz21wIw" name="token" type="_DW0ZsAZGEeaGp98nz21wIw" association="_YTnKoAZwEeaGp98nz21wIw">
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YTnKogZwEeaGp98nz21wIw" value="1"/>
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YTnKowZwEeaGp98nz21wIw" value="1"/>
     </ownedEnd>
